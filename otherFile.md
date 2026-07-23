@@ -1,5 +1,5 @@
 # First Game 
-
+![Welcome!](images/Tutorial1-Welcome.png)
 Welcome to your first MakeCode Arcade game!
 
 
@@ -11,7 +11,7 @@ By the end, you'll have:
 - 💎 A treasure to collect
 - 👾 An enemy to avoid
 
-![Example of the finished game](images/welcome.png)
+
 
 
 Click **Next** when you're ready!
