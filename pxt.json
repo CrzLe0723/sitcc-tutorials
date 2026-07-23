@@ -11,7 +11,7 @@
         "README.md",
         "assets.json",
         "otherFile.md"
-        "images/Tutorial1-Welcome.png"
+        "images/welcome.png"
     ],
     "testFiles": [
         "test.ts"
