@@ -16,9 +16,11 @@ By the end, you'll have:
 
 Click **Next** when you're ready!
 
+## It's time to start! @showhint
+
 ## Step 1 Create The Player 
 
-# @showhint
+
 Let's create the hero that the player will control!
 
 Click the **Sprites** category, then drag a **`set mySprite to sprite`** block into the workspace.
