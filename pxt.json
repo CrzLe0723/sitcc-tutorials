@@ -10,7 +10,7 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "otherFile.md"
+        "otherFile.md",
         "images/welcome.png"
     ],
     "testFiles": [
